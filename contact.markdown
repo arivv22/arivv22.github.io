@@ -4,8 +4,7 @@ title: Contact
 permalink: /about/contact/
 ---
 
-## Email
-Contact me on Email: arievmalik05@gmail.com
+GitHub: github.com/arivv22
+Email: arievmalik05@gmail.com
 
-## Github
-Contact me on Github using arivv22
+Open to collaboration, writing opportunities, and academic discussions.
